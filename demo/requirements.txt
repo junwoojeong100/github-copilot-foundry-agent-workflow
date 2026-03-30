@@ -1,0 +1,15 @@
+# Microsoft Agent Framework
+agent-framework-azure-ai>=1.0.0rc5
+agent-framework-azure-ai-search>=1.0.0b1
+agent-framework-core>=1.0.0rc5
+
+# Azure SDK
+azure-ai-projects>=2.0.0
+azure-identity
+python-dotenv
+
+# MCP
+mcp
+
+# UI
+streamlit>=1.40.0

@@ -1,0 +1,280 @@
+{
+  "calendar": {
+    "3": [
+      {"time": "09:00", "title": "팀 스탠드업 미팅 (화상회의실 A)"},
+      {"time": "10:30", "title": "프로젝트 리뷰 — Q1 마감 점검"},
+      {"time": "13:00", "title": "점심 미팅 — 파트너사 기술 협의"},
+      {"time": "15:00", "title": "주간 성과 보고 (대회의실)"},
+      {"time": "16:30", "title": "1:1 면담 — 신규 입사자 온보딩"}
+    ],
+    "4": [
+      {"time": "09:00", "title": "팀 스탠드업 미팅 (화상회의실 A)"},
+      {"time": "10:00", "title": "Q2 전략 킥오프 회의"},
+      {"time": "11:30", "title": "신규 프로젝트 브레인스토밍"},
+      {"time": "14:00", "title": "기술 아키텍처 리뷰 (AI 플랫폼)"},
+      {"time": "16:00", "title": "팀 빌딩 워크숍 사전 미팅"}
+    ],
+    "5": [
+      {"time": "09:00", "title": "팀 스탠드업 미팅 (화상회의실 A)"},
+      {"time": "10:30", "title": "상반기 인사평가 사전 준비 회의"},
+      {"time": "13:30", "title": "클라이언트 데모 — AI 챗봇 시연"},
+      {"time": "15:00", "title": "보안 점검 회의 (월간)"},
+      {"time": "16:30", "title": "개발팀 코드 리뷰 세션"}
+    ],
+    "6": [
+      {"time": "09:00", "title": "팀 스탠드업 미팅 (화상회의실 A)"},
+      {"time": "10:00", "title": "상반기 성과 리뷰 회의"},
+      {"time": "11:30", "title": "H1 매출 분석 보고"},
+      {"time": "14:00", "title": "하반기 전략 수립 워크숍"},
+      {"time": "16:00", "title": "팀 회식 장소 협의"}
+    ],
+    "7": [
+      {"time": "09:00", "title": "팀 스탠드업 미팅 (화상회의실 A)"},
+      {"time": "10:30", "title": "Q3 전략 킥오프 회의"},
+      {"time": "13:00", "title": "여름 인턴 멘토링 세션"},
+      {"time": "14:30", "title": "클라우드 마이그레이션 진행 점검"},
+      {"time": "16:00", "title": "하반기 채용 계획 논의"}
+    ],
+    "8": [
+      {"time": "09:00", "title": "팀 스탠드업 미팅 (화상회의실 A)"},
+      {"time": "10:00", "title": "여름 휴가 복귀 업무 브리핑"},
+      {"time": "11:30", "title": "AI 모델 성능 개선 리뷰"},
+      {"time": "14:00", "title": "고객사 기술 지원 회의"},
+      {"time": "15:30", "title": "하반기 교육 프로그램 기획"}
+    ],
+    "9": [
+      {"time": "09:00", "title": "팀 스탠드업 미팅 (화상회의실 A)"},
+      {"time": "10:30", "title": "Q3 중간 점검 회의"},
+      {"time": "13:00", "title": "추석 연휴 전 업무 정리 미팅"},
+      {"time": "14:30", "title": "하반기 인사평가 기준 논의"},
+      {"time": "16:00", "title": "신기술 세미나 — 생성형 AI 트렌드"}
+    ],
+    "10": [
+      {"time": "09:00", "title": "팀 스탠드업 미팅 (화상회의실 A)"},
+      {"time": "10:00", "title": "Q4 전략 킥오프 회의"},
+      {"time": "11:30", "title": "연말 예산 수립 회의"},
+      {"time": "14:00", "title": "차년도 기술 로드맵 논의"},
+      {"time": "16:00", "title": "고객 만족도 조사 결과 리뷰"}
+    ],
+    "11": [
+      {"time": "09:00", "title": "팀 스탠드업 미팅 (화상회의실 A)"},
+      {"time": "10:30", "title": "연간 성과 사전 리뷰"},
+      {"time": "13:00", "title": "차년도 프로젝트 파이프라인 논의"},
+      {"time": "14:30", "title": "보안 감사 대응 회의"},
+      {"time": "16:00", "title": "연말 행사 기획 회의"}
+    ],
+    "12": [
+      {"time": "09:00", "title": "팀 스탠드업 미팅 (화상회의실 A)"},
+      {"time": "10:00", "title": "연간 성과 최종 리뷰"},
+      {"time": "11:30", "title": "차년도 예산 확정 회의"},
+      {"time": "14:00", "title": "송년 타운홀 미팅"},
+      {"time": "16:00", "title": "연말 정산 및 마감 점검"}
+    ]
+  },
+  "emails": {
+    "3": [
+      {"from": "김부장 <kim@company.com>", "subject": "Q2 예산 검토 요청", "date": "2026-03-27", "preview": "Q2 부서별 예산안을 첨부합니다. 금요일까지 검토 부탁드립니다."},
+      {"from": "이사원 <lee@company.com>", "subject": "AI 도입 PoC 결과 보고", "date": "2026-03-26", "preview": "지난주 진행한 AI 챗봇 PoC 결과를 공유합니다. 응답 정확도 92% 달성."},
+      {"from": "박대리 <park@company.com>", "subject": "3월 회의실 예약 현황", "date": "2026-03-25", "preview": "3월 넷째 주 회의실 예약 현황을 정리했습니다."},
+      {"from": "HR팀 <hr@company.com>", "subject": "2026년 상반기 교육 일정 안내", "date": "2026-03-24", "preview": "상반기 필수 교육 일정을 안내합니다. 리더십, 보안, AI 활용 교육."},
+      {"from": "IT지원 <it@company.com>", "subject": "VPN 클라이언트 업데이트 안내", "date": "2026-03-23", "preview": "보안 패치가 적용된 VPN 클라이언트 v3.2를 배포합니다."}
+    ],
+    "4": [
+      {"from": "최이사 <choi@company.com>", "subject": "Q2 전략 방향 공유", "date": "2026-04-28", "preview": "Q2 핵심 목표와 부서별 KPI를 정리했습니다. 검토 부탁드립니다."},
+      {"from": "이사원 <lee@company.com>", "subject": "AI 챗봇 파일럿 확대 제안", "date": "2026-04-25", "preview": "PoC 성공을 바탕으로 전사 확대 도입 제안서를 작성했습니다."},
+      {"from": "HR팀 <hr@company.com>", "subject": "4월 신규 입사자 안내", "date": "2026-04-22", "preview": "4월 입사 예정자 3명의 온보딩 일정입니다."},
+      {"from": "김부장 <kim@company.com>", "subject": "팀 빌딩 워크숍 일정", "date": "2026-04-20", "preview": "5월 팀 빌딩 워크숍 후보 날짜와 장소를 공유합니다."},
+      {"from": "보안팀 <security@company.com>", "subject": "상반기 보안 점검 일정", "date": "2026-04-18", "preview": "4월~5월 보안 취약점 점검 일정을 안내합니다."}
+    ],
+    "5": [
+      {"from": "박대리 <park@company.com>", "subject": "클라이언트 데모 준비 현황", "date": "2026-05-28", "preview": "다음 주 AI 솔루션 데모 시나리오와 준비 현황 공유합니다."},
+      {"from": "HR팀 <hr@company.com>", "subject": "상반기 인사평가 일정 안내", "date": "2026-05-26", "preview": "6월 인사평가 일정과 자기평가 양식을 첨부합니다."},
+      {"from": "김부장 <kim@company.com>", "subject": "5월 프로젝트 마일스톤 점검", "date": "2026-05-23", "preview": "주요 프로젝트 5월 마일스톤 달성 현황을 정리했습니다."},
+      {"from": "IT지원 <it@company.com>", "subject": "사무실 네트워크 점검 안내", "date": "2026-05-21", "preview": "5월 마지막 주말 네트워크 장비 교체 작업이 진행됩니다."},
+      {"from": "이사원 <lee@company.com>", "subject": "AI 모니터링 대시보드 완성", "date": "2026-05-19", "preview": "AI 챗봇 운영 모니터링 대시보드를 구축했습니다. 접속 URL 공유합니다."}
+    ],
+    "6": [
+      {"from": "최이사 <choi@company.com>", "subject": "상반기 실적 총괄 보고", "date": "2026-06-27", "preview": "H1 매출 목표 대비 112% 달성. 상세 분석 보고서를 첨부합니다."},
+      {"from": "HR팀 <hr@company.com>", "subject": "상반기 인사평가 결과 안내", "date": "2026-06-25", "preview": "상반기 인사평가 최종 결과와 면담 일정을 안내합니다."},
+      {"from": "김부장 <kim@company.com>", "subject": "하반기 전략 수립 자료 요청", "date": "2026-06-23", "preview": "7월 전략 워크숍을 위한 부서별 현황 자료를 요청합니다."},
+      {"from": "박대리 <park@company.com>", "subject": "6월 팀 회식 일정", "date": "2026-06-20", "preview": "상반기 마무리 팀 회식 날짜 투표를 진행합니다."},
+      {"from": "보안팀 <security@company.com>", "subject": "상반기 보안 점검 결과", "date": "2026-06-18", "preview": "상반기 보안 취약점 점검 결과와 조치 사항을 공유합니다."}
+    ],
+    "7": [
+      {"from": "최이사 <choi@company.com>", "subject": "Q3 전략 킥오프 자료", "date": "2026-07-28", "preview": "Q3 핵심 전략과 신규 프로젝트 파이프라인을 공유합니다."},
+      {"from": "HR팀 <hr@company.com>", "subject": "여름 인턴 프로그램 안내", "date": "2026-07-25", "preview": "7~8월 인턴 5명의 배치 부서와 멘토 배정 현황입니다."},
+      {"from": "이사원 <lee@company.com>", "subject": "클라우드 마이그레이션 1차 완료", "date": "2026-07-23", "preview": "온프레미스 서버 70% 클라우드 이전을 완료했습니다."},
+      {"from": "김부장 <kim@company.com>", "subject": "하반기 채용 계획", "date": "2026-07-21", "preview": "Q3~Q4 개발 직군 채용 계획과 JD를 공유합니다."},
+      {"from": "IT지원 <it@company.com>", "subject": "여름 냉방 시스템 점검", "date": "2026-07-18", "preview": "서버실 및 사무실 냉방 시스템 정기 점검을 실시합니다."}
+    ],
+    "8": [
+      {"from": "김부장 <kim@company.com>", "subject": "여름 휴가 후 업무 복귀 안내", "date": "2026-08-27", "preview": "8월 업무 복귀 후 주요 프로젝트 현황을 정리했습니다."},
+      {"from": "이사원 <lee@company.com>", "subject": "AI 모델 v2.0 성능 리포트", "date": "2026-08-25", "preview": "개선된 AI 모델 정확도 97%를 달성했습니다. 상세 벤치마크 첨부."},
+      {"from": "HR팀 <hr@company.com>", "subject": "하반기 교육 프로그램 수강 안내", "date": "2026-08-22", "preview": "9월부터 시작되는 전사 교육 프로그램 커리큘럼을 안내합니다."},
+      {"from": "박대리 <park@company.com>", "subject": "고객사 기술 지원 이슈 정리", "date": "2026-08-20", "preview": "8월 발생 고객사 기술 이슈 3건의 해결 현황을 공유합니다."},
+      {"from": "보안팀 <security@company.com>", "subject": "피싱 메일 주의 안내", "date": "2026-08-18", "preview": "최근 사내를 대상으로 한 피싱 공격이 증가하고 있습니다. 주의 바랍니다."}
+    ],
+    "9": [
+      {"from": "최이사 <choi@company.com>", "subject": "Q3 중간 성과 보고", "date": "2026-09-26", "preview": "Q3 중간 점검 결과, 핵심 KPI 85% 달성 중입니다."},
+      {"from": "HR팀 <hr@company.com>", "subject": "추석 연휴 근무 안내", "date": "2026-09-24", "preview": "추석 연휴 기간 비상 연락망과 당직 근무 일정을 안내합니다."},
+      {"from": "김부장 <kim@company.com>", "subject": "하반기 인사평가 기준 안내", "date": "2026-09-22", "preview": "12월 인사평가에 적용될 평가 기준과 역량 항목을 공유합니다."},
+      {"from": "이사원 <lee@company.com>", "subject": "생성형 AI 활용 가이드 배포", "date": "2026-09-19", "preview": "사내 생성형 AI 사용 가이드라인과 보안 주의사항을 배포합니다."},
+      {"from": "IT지원 <it@company.com>", "subject": "사무실 Wi-Fi 업그레이드 완료", "date": "2026-09-17", "preview": "Wi-Fi 6E 업그레이드가 완료되었습니다. 새 접속 방법을 안내합니다."}
+    ],
+    "10": [
+      {"from": "최이사 <choi@company.com>", "subject": "Q4 전략 및 연말 목표", "date": "2026-10-28", "preview": "Q4 핵심 과제와 연간 목표 달성을 위한 액션 플랜을 공유합니다."},
+      {"from": "김부장 <kim@company.com>", "subject": "차년도 예산 수립 요청", "date": "2026-10-26", "preview": "2027년 부서별 예산안을 11월 15일까지 제출해 주세요."},
+      {"from": "이사원 <lee@company.com>", "subject": "기술 로드맵 2027 초안", "date": "2026-10-23", "preview": "차년도 기술 투자 방향과 핵심 프로젝트 후보를 정리했습니다."},
+      {"from": "HR팀 <hr@company.com>", "subject": "연말 인사평가 일정 안내", "date": "2026-10-21", "preview": "11~12월 인사평가 세부 일정과 평가 양식을 안내합니다."},
+      {"from": "박대리 <park@company.com>", "subject": "고객 만족도 설문 결과", "date": "2026-10-18", "preview": "Q3 고객 만족도 조사 결과, 전체 만족도 4.2/5.0을 달성했습니다."}
+    ],
+    "11": [
+      {"from": "최이사 <choi@company.com>", "subject": "연간 성과 사전 논의 안내", "date": "2026-11-27", "preview": "12월 최종 평가 전, 연간 성과 사전 논의를 진행합니다."},
+      {"from": "김부장 <kim@company.com>", "subject": "차년도 프로젝트 우선순위 확정", "date": "2026-11-25", "preview": "2027년 핵심 프로젝트 Top 5와 예산 배분안을 확정했습니다."},
+      {"from": "보안팀 <security@company.com>", "subject": "연말 보안 감사 대비 체크리스트", "date": "2026-11-22", "preview": "12월 외부 보안 감사 대비 자가 점검 체크리스트를 배포합니다."},
+      {"from": "HR팀 <hr@company.com>", "subject": "연말 행사 및 송년회 안내", "date": "2026-11-20", "preview": "12월 송년 행사 일정과 경품 이벤트를 안내합니다."},
+      {"from": "IT지원 <it@company.com>", "subject": "연말 시스템 점검 일정", "date": "2026-11-18", "preview": "12월 말 전사 시스템 점검 및 데이터 백업 일정을 안내합니다."}
+    ],
+    "12": [
+      {"from": "최이사 <choi@company.com>", "subject": "연간 실적 최종 보고", "date": "2026-12-26", "preview": "2026년 연간 매출 목표 대비 118% 달성. 상세 보고서를 첨부합니다."},
+      {"from": "HR팀 <hr@company.com>", "subject": "연말 인사평가 최종 결과", "date": "2026-12-23", "preview": "2026년 인사평가 최종 결과와 보상 안내입니다."},
+      {"from": "김부장 <kim@company.com>", "subject": "2027년 1분기 계획 공유", "date": "2026-12-22", "preview": "차년도 Q1 핵심 과제와 킥오프 일정을 공유합니다."},
+      {"from": "이사원 <lee@company.com>", "subject": "연간 기술 성과 종합 보고", "date": "2026-12-19", "preview": "2026년 AI 도입, 클라우드 전환, 보안 강화 등 기술 성과를 종합합니다."},
+      {"from": "IT지원 <it@company.com>", "subject": "연말 시스템 정기 점검 안내", "date": "2026-12-17", "preview": "12/30~31 전사 시스템 정기 점검이 진행됩니다. 데이터 백업 필수."}
+    ]
+  },
+  "tasks": {
+    "3": [
+      {"id": "T-301", "title": "AI 챗봇 PoC 보고서 작성", "status": "in_progress", "priority": "높음", "due": "2026-03-29"},
+      {"id": "T-302", "title": "Q2 예산안 검토 및 승인", "status": "pending", "priority": "높음", "due": "2026-03-28"},
+      {"id": "T-303", "title": "신규 입사자 온보딩 자료 준비", "status": "pending", "priority": "보통", "due": "2026-04-01"},
+      {"id": "T-304", "title": "보안 교육 이수", "status": "done", "priority": "높음", "due": "2026-03-25"},
+      {"id": "T-305", "title": "월간 KPI 대시보드 업데이트", "status": "in_progress", "priority": "보통", "due": "2026-03-31"}
+    ],
+    "4": [
+      {"id": "T-401", "title": "Q2 전략 실행 계획서 작성", "status": "in_progress", "priority": "높음", "due": "2026-04-30"},
+      {"id": "T-402", "title": "AI 챗봇 전사 확대 도입 기획", "status": "pending", "priority": "높음", "due": "2026-04-25"},
+      {"id": "T-403", "title": "팀 빌딩 워크숍 장소 예약", "status": "done", "priority": "보통", "due": "2026-04-20"},
+      {"id": "T-404", "title": "보안 취약점 점검 대응", "status": "in_progress", "priority": "높음", "due": "2026-04-28"},
+      {"id": "T-405", "title": "4월 신규 입사자 온보딩 진행", "status": "pending", "priority": "보통", "due": "2026-04-22"}
+    ],
+    "5": [
+      {"id": "T-501", "title": "클라이언트 AI 솔루션 데모 준비", "status": "in_progress", "priority": "높음", "due": "2026-05-30"},
+      {"id": "T-502", "title": "상반기 인사평가 자기평가 작성", "status": "pending", "priority": "높음", "due": "2026-05-31"},
+      {"id": "T-503", "title": "프로젝트 마일스톤 보고서 제출", "status": "done", "priority": "보통", "due": "2026-05-23"},
+      {"id": "T-504", "title": "AI 모니터링 대시보드 테스트", "status": "in_progress", "priority": "보통", "due": "2026-05-28"},
+      {"id": "T-505", "title": "네트워크 장비 교체 협조", "status": "pending", "priority": "낮음", "due": "2026-05-31"}
+    ],
+    "6": [
+      {"id": "T-601", "title": "상반기 실적 보고서 작성", "status": "in_progress", "priority": "높음", "due": "2026-06-30"},
+      {"id": "T-602", "title": "인사평가 면담 진행", "status": "pending", "priority": "높음", "due": "2026-06-27"},
+      {"id": "T-603", "title": "하반기 전략 수립 자료 준비", "status": "in_progress", "priority": "높음", "due": "2026-06-25"},
+      {"id": "T-604", "title": "보안 점검 결과 조치 이행", "status": "done", "priority": "보통", "due": "2026-06-20"},
+      {"id": "T-605", "title": "팀 회식 일정 확정", "status": "done", "priority": "낮음", "due": "2026-06-22"}
+    ],
+    "7": [
+      {"id": "T-701", "title": "Q3 전략 실행 계획 수립", "status": "in_progress", "priority": "높음", "due": "2026-07-31"},
+      {"id": "T-702", "title": "인턴 멘토링 프로그램 운영", "status": "in_progress", "priority": "보통", "due": "2026-08-31"},
+      {"id": "T-703", "title": "클라우드 마이그레이션 2차 진행", "status": "pending", "priority": "높음", "due": "2026-07-28"},
+      {"id": "T-704", "title": "하반기 채용 JD 작성", "status": "done", "priority": "보통", "due": "2026-07-21"},
+      {"id": "T-705", "title": "서버실 냉방 시스템 점검 협조", "status": "pending", "priority": "낮음", "due": "2026-07-18"}
+    ],
+    "8": [
+      {"id": "T-801", "title": "AI 모델 v2.0 배포 준비", "status": "in_progress", "priority": "높음", "due": "2026-08-31"},
+      {"id": "T-802", "title": "고객사 기술 이슈 대응", "status": "in_progress", "priority": "높음", "due": "2026-08-25"},
+      {"id": "T-803", "title": "하반기 교육 커리큘럼 검토", "status": "pending", "priority": "보통", "due": "2026-08-28"},
+      {"id": "T-804", "title": "인턴 최종 프로젝트 평가", "status": "pending", "priority": "보통", "due": "2026-08-29"},
+      {"id": "T-805", "title": "피싱 대응 보안 교육 이수", "status": "done", "priority": "높음", "due": "2026-08-20"}
+    ],
+    "9": [
+      {"id": "T-901", "title": "Q3 성과 보고서 작성", "status": "in_progress", "priority": "높음", "due": "2026-09-30"},
+      {"id": "T-902", "title": "생성형 AI 가이드라인 전파", "status": "done", "priority": "높음", "due": "2026-09-19"},
+      {"id": "T-903", "title": "하반기 인사평가 기준 숙지", "status": "pending", "priority": "보통", "due": "2026-09-25"},
+      {"id": "T-904", "title": "추석 전 업무 인수인계 정리", "status": "in_progress", "priority": "보통", "due": "2026-09-24"},
+      {"id": "T-905", "title": "Wi-Fi 업그레이드 후 테스트", "status": "done", "priority": "낮음", "due": "2026-09-18"}
+    ],
+    "10": [
+      {"id": "T-1001", "title": "Q4 액션 플랜 수립", "status": "in_progress", "priority": "높음", "due": "2026-10-31"},
+      {"id": "T-1002", "title": "2027년 부서 예산안 제출", "status": "pending", "priority": "높음", "due": "2026-11-15"},
+      {"id": "T-1003", "title": "기술 로드맵 2027 리뷰", "status": "in_progress", "priority": "보통", "due": "2026-10-28"},
+      {"id": "T-1004", "title": "고객 만족도 조사 개선안 작성", "status": "pending", "priority": "보통", "due": "2026-10-30"},
+      {"id": "T-1005", "title": "인사평가 양식 숙지 및 작성", "status": "pending", "priority": "높음", "due": "2026-11-30"}
+    ],
+    "11": [
+      {"id": "T-1101", "title": "연간 성과 자기평가 작성", "status": "in_progress", "priority": "높음", "due": "2026-11-30"},
+      {"id": "T-1102", "title": "차년도 프로젝트 기획서 작성", "status": "in_progress", "priority": "높음", "due": "2026-11-28"},
+      {"id": "T-1103", "title": "보안 감사 자가 점검 완료", "status": "pending", "priority": "높음", "due": "2026-11-25"},
+      {"id": "T-1104", "title": "송년회 행사 준비", "status": "pending", "priority": "낮음", "due": "2026-12-10"},
+      {"id": "T-1105", "title": "연말 시스템 점검 계획 수립", "status": "done", "priority": "보통", "due": "2026-11-20"}
+    ],
+    "12": [
+      {"id": "T-1201", "title": "연간 실적 최종 보고서 작성", "status": "in_progress", "priority": "높음", "due": "2026-12-28"},
+      {"id": "T-1202", "title": "인사평가 최종 면담 참여", "status": "pending", "priority": "높음", "due": "2026-12-23"},
+      {"id": "T-1203", "title": "2027년 Q1 킥오프 준비", "status": "pending", "priority": "보통", "due": "2026-12-30"},
+      {"id": "T-1204", "title": "연말 데이터 백업 및 정리", "status": "in_progress", "priority": "높음", "due": "2026-12-29"},
+      {"id": "T-1205", "title": "연간 기술 성과 보고서 기여", "status": "done", "priority": "보통", "due": "2026-12-19"}
+    ]
+  },
+  "sales": {
+    "3": {
+      "엔터프라이즈 라이선스": {"amount": 12.34, "change": "+8.2%", "count": 45},
+      "클라우드 서비스": {"amount": 8.76, "change": "+15.3%", "count": 128},
+      "기술 컨설팅": {"amount": 3.21, "change": "-2.1%", "count": 12},
+      "교육/트레이닝": {"amount": 1.58, "change": "+22.7%", "count": 67}
+    },
+    "4": {
+      "엔터프라이즈 라이선스": {"amount": 13.12, "change": "+6.3%", "count": 48},
+      "클라우드 서비스": {"amount": 9.45, "change": "+7.9%", "count": 135},
+      "기술 컨설팅": {"amount": 3.87, "change": "+20.6%", "count": 15},
+      "교육/트레이닝": {"amount": 1.23, "change": "-22.2%", "count": 42}
+    },
+    "5": {
+      "엔터프라이즈 라이선스": {"amount": 14.56, "change": "+11.0%", "count": 52},
+      "클라우드 서비스": {"amount": 10.23, "change": "+8.3%", "count": 142},
+      "기술 컨설팅": {"amount": 4.12, "change": "+6.5%", "count": 18},
+      "교육/트레이닝": {"amount": 0.95, "change": "-22.8%", "count": 35}
+    },
+    "6": {
+      "엔터프라이즈 라이선스": {"amount": 15.87, "change": "+9.0%", "count": 58},
+      "클라우드 서비스": {"amount": 11.45, "change": "+11.9%", "count": 156},
+      "기술 컨설팅": {"amount": 5.34, "change": "+29.6%", "count": 22},
+      "교육/트레이닝": {"amount": 1.67, "change": "+75.8%", "count": 71}
+    },
+    "7": {
+      "엔터프라이즈 라이선스": {"amount": 11.23, "change": "-29.2%", "count": 38},
+      "클라우드 서비스": {"amount": 10.87, "change": "-5.1%", "count": 148},
+      "기술 컨설팅": {"amount": 2.98, "change": "-44.2%", "count": 10},
+      "교육/트레이닝": {"amount": 0.78, "change": "-53.3%", "count": 28}
+    },
+    "8": {
+      "엔터프라이즈 라이선스": {"amount": 12.89, "change": "+14.8%", "count": 44},
+      "클라우드 서비스": {"amount": 11.34, "change": "+4.3%", "count": 151},
+      "기술 컨설팅": {"amount": 3.56, "change": "+19.5%", "count": 14},
+      "교육/트레이닝": {"amount": 2.12, "change": "+171.8%", "count": 89}
+    },
+    "9": {
+      "엔터프라이즈 라이선스": {"amount": 14.23, "change": "+10.4%", "count": 50},
+      "클라우드 서비스": {"amount": 12.67, "change": "+11.7%", "count": 163},
+      "기술 컨설팅": {"amount": 4.89, "change": "+37.4%", "count": 19},
+      "교육/트레이닝": {"amount": 2.45, "change": "+15.6%", "count": 95}
+    },
+    "10": {
+      "엔터프라이즈 라이선스": {"amount": 15.67, "change": "+10.1%", "count": 55},
+      "클라우드 서비스": {"amount": 13.45, "change": "+6.2%", "count": 172},
+      "기술 컨설팅": {"amount": 5.12, "change": "+4.7%", "count": 21},
+      "교육/트레이닝": {"amount": 1.89, "change": "-22.9%", "count": 68}
+    },
+    "11": {
+      "엔터프라이즈 라이선스": {"amount": 16.34, "change": "+4.3%", "count": 59},
+      "클라우드 서비스": {"amount": 14.78, "change": "+9.9%", "count": 185},
+      "기술 컨설팅": {"amount": 5.89, "change": "+15.0%", "count": 24},
+      "교육/트레이닝": {"amount": 2.34, "change": "+23.8%", "count": 82}
+    },
+    "12": {
+      "엔터프라이즈 라이선스": {"amount": 18.56, "change": "+13.6%", "count": 67},
+      "클라우드 서비스": {"amount": 15.23, "change": "+3.0%", "count": 192},
+      "기술 컨설팅": {"amount": 6.78, "change": "+15.1%", "count": 28},
+      "교육/트레이닝": {"amount": 1.45, "change": "-38.0%", "count": 45}
+    }
+  }
+}
