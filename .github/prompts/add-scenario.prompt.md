@@ -26,6 +26,7 @@ mode: "agent"
 
 - `demo/app.py`의 기존 에이전트 생성 패턴을 따를 것:
   ```python
+  # 단일 에이전트: @st.cache_resource로 캐시 가능
   @st.cache_resource
   def create_xxx_agent():
       return Agent(
@@ -35,6 +36,11 @@ mode: "agent"
           tools=[mcp_tool],              # MCP: MCPStdioTool
           context_providers=[kb_provider], # RAG: AzureAISearchContextProvider
       )
+
+  # WorkflowAgent: 캐시 금지 (내부 실행 상태 추적으로 동시 실행 충돌)
+  def create_workflow_xxx_agent():
+      ...
+      return WorkflowAgent(workflow=workflow, name="...", description="...")
   ```
 - RAG 도구 추가: `AzureAISearchContextProvider`를 `context_providers`로 전달
 - MCP 도구 추가: `demo/mcp_server.py`에 `@server.tool()` 추가 → MCPStdioTool이 자동 로드

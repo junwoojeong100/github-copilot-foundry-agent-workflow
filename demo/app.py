@@ -167,7 +167,6 @@ def create_tool_agent():
     )
 
 
-@st.cache_resource
 def create_workflow_agent():
     """시나리오 3: 멀티 에이전트 워크플로우
 
@@ -176,6 +175,9 @@ def create_workflow_agent():
         - RAG만 → RAG 에이전트
         - TOOL만 → MCP 도구 에이전트
         - BOTH → RAG → Tool → Summarizer (순차 파이프라인)
+
+    Note: WorkflowAgent는 내부 실행 상태를 추적하므로 캐시하지 않습니다.
+    매 요청마다 새 인스턴스를 생성하여 동시 실행 충돌을 방지합니다.
     """
     client = get_ai_client()
 

@@ -53,6 +53,7 @@ tools:
 ### 5단계: Streamlit 앱 점검
 - `streamlit run demo/app.py` 실행 시 에러 메시지 분석
 - `@st.cache_resource` 캐시 문제 (재시작 필요 여부)
+- `WorkflowAgent`에 `@st.cache_resource`가 적용되어 있지 않은지 확인 (적용 시 "Concurrent executions are not allowed" 오류 발생)
 - 비동기 이벤트 루프 충돌 (`asyncio.run()` 사용 여부)
 
 ## 출력 규칙

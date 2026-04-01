@@ -42,8 +42,9 @@
 
 ## Streamlit 캐싱 규칙
 
-- 에이전트 생성 함수에는 `@st.cache_resource`를 적용하여 재실행 시 재생성을 방지한다.
+- 단일 에이전트 생성 함수(`create_rag_agent`, `create_tool_agent`)에는 `@st.cache_resource`를 적용하여 재실행 시 재생성을 방지한다.
 - 이벤트 루프, 클라이언트 등 **프로세스 수명 동안 유지해야 하는 리소스**에만 사용한다.
+- **`WorkflowAgent`(`create_workflow_agent`)에는 `@st.cache_resource`를 사용하지 않는다.** `WorkflowAgent`는 내부 실행 상태를 추적하므로, 캐시된 인스턴스를 재사용하면 "Concurrent executions are not allowed" 오류가 발생한다. 매 요청마다 새 인스턴스를 생성한다.
 - 요청마다 달라지는 입력값이 있는 함수에는 사용하지 않는다.
 
 ## 비동기/스트리밍 패턴
