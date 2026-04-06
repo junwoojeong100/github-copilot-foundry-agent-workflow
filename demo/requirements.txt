@@ -1,7 +1,7 @@
 # Microsoft Agent Framework
-agent-framework-azure-ai>=1.0.0rc5
-agent-framework-azure-ai-search>=1.0.0b1
-agent-framework-core>=1.0.0rc5
+agent-framework-azure-ai==1.0.0rc6
+agent-framework-azure-ai-search==1.0.0b260402
+agent-framework-core==1.0.0
 
 # Azure SDK
 azure-ai-projects>=2.0.0
