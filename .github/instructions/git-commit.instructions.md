@@ -58,3 +58,14 @@ docs: clarify README title and explain Agent Framework choice
 
 Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
 ```
+
+## PR 생성 워크플로우
+
+- 기능/수정 브랜치(`fix/*`, `feat/*`, `docs/*` 등)에 커밋을 **푸시한 직후에는 항상 PR을 자동으로 생성**한다.
+  - 이미 해당 브랜치로 열린 PR이 있으면 새로 만들지 않고 그대로 두고, 사용자에게 PR URL만 안내한다.
+  - `main` 브랜치에 직접 푸시하는 경우에는 PR을 만들지 않는다.
+- PR 생성은 `gh pr create --base main --head <branch>`를 사용한다.
+- PR 제목과 본문도 커밋 메시지와 동일하게 **영어**로 작성한다.
+  - 제목: Conventional Commits 스타일 (`type: subject`)
+  - 본문: `## Summary`, `## Commits`, 필요 시 `## Notes` 섹션으로 구성
+- PR 생성 후에는 PR URL을 사용자에게 안내한다.
